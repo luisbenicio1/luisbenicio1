@@ -10,4 +10,4 @@
 </div><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisbenicio1&theme=midnight-purple)
+![Top Langs]((https://github-readme-stats.vercel.app/api?username=luisbenicio1&show_icons=true&theme=transparent))
